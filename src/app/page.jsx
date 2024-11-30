@@ -176,7 +176,7 @@ export default function CubeTimer() {
             </Button>
           </div>
           <p className="text-sm text-gray-500 mt-4">
-            Press space to start/pause timing, press 'R' to reset
+            Press space to start/pause timing, press &apos;R&apos; to reset
           </p>
         </NeonGradientCard>
 
