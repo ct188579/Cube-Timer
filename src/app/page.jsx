@@ -96,7 +96,7 @@ export default function CubeTimer() {
   const router = useRouter()
   //点击按钮跳转博客
   const toBlog = () => {
-    router.push('https://www.ctblog.top')
+    router.push('https://www.nextdaddy.cn')
   }
 
   const words = [
